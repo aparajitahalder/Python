@@ -238,6 +238,11 @@ for i in range(1,m+1):
     
 #%%
 
+### one liner pattern printing
+for i in range(5):
+    print(f"*" * (4-i))
+    
+
     
 
 
